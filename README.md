@@ -23,8 +23,8 @@
 </br>
 
 <h1 align="center">
-<a href="https://github.com/nicolas-m-romero/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas-m-romero&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Nico's github stats" /></a><a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-   <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-m-romero&theme=graywhite&hide_border=true" alt="nicolas-m-romero" />
+<a href="https://github.com/nicolas-m-romero/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=nicolas-m-romero&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Nico's github stats" /></a><a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+   <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-m-romero&theme=graywhite&hide_border=true" alt="nicolas-m-romero" />
 </a>
 </h1>
  
