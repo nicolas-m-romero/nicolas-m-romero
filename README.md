@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nicolas+Romero....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nicolas+Romero....;Nice+to+meet+you!&center=true&size=40">
   </a>
 </h1>
 
@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-m-romero&theme=buefy&hide_border=61dafb&hide_border=true" alt="nicolas-m-romero" />
     </a>
+  
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
