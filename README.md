@@ -22,10 +22,10 @@ You can click the Preview link to take a look at your changes.
 
 <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-m-romero&theme=buefy&border=61dafb&hide_border=true" alt="nicolas-m-romero" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-m-romero&theme=buefy&hide_border=true" alt="nicolas-m-romero" />
     </a>
   
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nicolas-m-romero&theme=buefy&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nicolas-m-romero&theme=buefy&hide_border=true" width="100%"/>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
