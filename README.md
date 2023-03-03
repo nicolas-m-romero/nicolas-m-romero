@@ -1,3 +1,10 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nicolas+Romero....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
 - 👋 Hi, I’m @nicolas-m-romero
 - 👀 I’m interested in learning web development and backend development
 - 🌱 I’m currently learning the basics of python
@@ -15,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-m-romero&theme=buefy&hide_border=61dafb&hide_border=true" alt="nicolas-m-romero" />
     </a>
 
 <p align="center">
