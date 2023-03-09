@@ -4,16 +4,16 @@ svg {
   width:110vw;
   position:fixed;
   top:-5px;
-  transform: rotate(360deg);
+  transform: rotate(180deg);
   overflow:visible;
 }
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #fff;  
+  fill: #000;  
 }
 .wave:hover {
-  fill: #000;
+  fill: #fff;
 }
 #wave2 {
   animation-duration:6s;
