@@ -1,4 +1,6 @@
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/nicolas-m-romero/nicolas-m-romero/main/Wave_Top.svg" alt="Github Stats" />
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+There!;This+is+Nicolas+Romero...;Nice+to+meet+you..." alt="Typing SVG" /></a>
