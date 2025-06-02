@@ -38,15 +38,6 @@
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nicolas-m-romero&theme=high-contrast&hide_border=true" width="100%"/>
 
 <br>
-  
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### Future Projects:
-
-- &nbsp; Personal Website: Plan to use the website to hold future portfolio and resume
-- &nbsp; Aggie Ticket Pull: A website/App deisgned to host and organize interaction between Texas A&M students to complete their ticket pull and sportspass sharing.
-- &nbsp; Selenium Gmail filter: An adaptive gmail filter device that deletes emails based on inputted keywords. Aim is to learn and practice using Selenium
-- &nbsp; Pokegame: Previous project of mine that I plan to elaborate on and hopefully add graphics
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
